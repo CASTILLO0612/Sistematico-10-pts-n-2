@@ -1,0 +1,42 @@
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.exe
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.deps.json
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.runtimeconfig.json
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.dll
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.pdb
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.dll
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\refint\Sistematico 10 pts n#2.dll
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.pdb
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\ref\Sistematico 10 pts n#2.dll
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.AssemblyInfoInputs.cache
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.AssemblyInfo.cs
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.dll
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\refint\Sistematico 10 pts n#2.dll
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.pdb
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.exe
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.deps.json
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.runtimeconfig.json
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.dll
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.pdb
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.genruntimeconfig.cache
+C:\Users\DeLL\Downloads\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\ref\Sistematico 10 pts n#2.dll
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.exe
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.deps.json
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.runtimeconfig.json
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.dll
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\bin\Debug\net8.0\Sistematico 10 pts n#2.pdb
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.AssemblyInfoInputs.cache
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.AssemblyInfo.cs
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.dll
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\refint\Sistematico 10 pts n#2.dll
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.pdb
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\Sistematico 10 pts n#2.genruntimeconfig.cache
+C:\Users\DeLL\Documents\Universidad Nacional de Ingenieria\Semestre 2\Programacion I\Sistematico 10 pts n#2\Sistematico 10 pts n#2\obj\Debug\net8.0\ref\Sistematico 10 pts n#2.dll

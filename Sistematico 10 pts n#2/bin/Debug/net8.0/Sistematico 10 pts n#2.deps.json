@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistematico 10 pts n#2/1.0.0": {
+        "runtime": {
+          "Sistematico 10 pts n#2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistematico 10 pts n#2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
